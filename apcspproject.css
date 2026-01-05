@@ -1,0 +1,43 @@
+body {
+  background: #ffc88b;
+}
+h1 {
+  font-weight: bolder;
+  color: #07461D;
+  font-size: 50px;
+  border: dotted;
+  border-width: thick;
+  text-align: center;
+}
+p {
+  color: black;
+  text-align: left;
+  font-size: 18px;
+}
+h2 {
+  font-weight: bolder;
+  color: #07461D;
+  font-size: 25px;
+  border-width: thick;
+  text-align: center;
+}
+a {
+  display:block;
+  font-weight: bolder;
+  color: #07461D;
+  font-size: 25px;
+  border-width: thick;
+  text-align: center;
+}
+li {
+  font-weight: bolder;
+  color: #07461D;
+  font-size: 25px;
+  border-width: thick;
+}
+.intro {
+  text-align: center;
+}
+img {
+  width: 150px;
+}
